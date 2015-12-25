@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a11eaec5-53d4-4cb1-aa5a-6b014855a201" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="hartl.iws" />
     <ignored path=".idea/workspace.xml" />
